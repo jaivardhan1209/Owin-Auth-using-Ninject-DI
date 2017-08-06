@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>HaulMAX.WebApi</id>
+    <version>1.0.0</version>
+    <description>HaulMAX WebApi</description>
+    <authors>Optym</authors>
+  </metadata>
+  <files>
+    <file src="bin\Libs\*.*" target="bin\Libs\" />
+  </files>
+</package>
